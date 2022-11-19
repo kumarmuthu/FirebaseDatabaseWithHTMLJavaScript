@@ -1,0 +1,47 @@
+<!--..codeauthor:: Muthukumar Subramanian-->
+<!--HTML JavaScript to Write and Read on the Google Firebase-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:,">
+    <!--   Add your favorite css    -->
+    <link rel="stylesheet" href="style.css">
+    <title>Firebase read and write</title>
+</head>
+<style>
+h1 {
+  text-align: center;
+}
+.firebase_display_text{
+        border-radius: 8px;
+        width: auto;
+        height: auto;
+        margin: 0;
+        position: absolute;
+        top: 78%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+</style>
+<body>
+    <h1>Muthu - Firebase read and write</h1>
+    <div class="esp32_web_server_login_page_top">
+        <input type="text" placeholder="user name" id="user_name">
+        <input type="text" placeholder="user password" id="user_name_password">
+        <div>
+              <button id="write_data_to_firebase">Write Data to Firebase</button>
+        </div>
+        <div>
+              <button id="read_data_from_firebase">Read Data from Firebase</button>
+        </div>
+    </div>
+    <div class="firebase_display_text">
+        <h2><<<----- Display read data ----->>></h2>
+        <p id="display_read_data">Before: <'empty'></p>
+    </div>
+<script src="firebase_validation.js" type="module"></script>
+</body>
+</html>
