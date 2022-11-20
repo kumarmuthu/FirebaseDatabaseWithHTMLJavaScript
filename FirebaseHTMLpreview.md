@@ -1,0 +1,1 @@
+http://htmlpreview.github.io/?https://github.com/kumarmuthu/FirebaseDatabaseWithHTMLJavaScript/blob/main/Script/firebase_validation_index.html
