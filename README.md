@@ -21,7 +21,7 @@ Click ==>Data field to store the data in key-value format.
 **Step-4:**
 Click ==>Rules, update the rules as per your project requirements (Less security if we set read as true).
 
-**HTML/javascript**
+**HTML/javascript:**
 
 **Step-5:**
 Download the source code from Github: https://github.com/kumarmuthu/FirebaseDatabaseWithHTMLJavaScript
