@@ -1,6 +1,6 @@
 # FirebaseDatabaseWithHTMLJavaScript
 HTML JavaScript to Write and Read on the Google Firebase
-
+***
 **Steps to go:**
 
 The lightweight project can use this logic to validate the username and password or we can monitor the web app's stored data.  
@@ -42,4 +42,9 @@ open the firebase_validation_index.html then execute the read and write operatio
 
 **the end...**
 
-**Youtube link:** https://www.youtube.com/watch?v=YYh6T4lCxxc
+***
+**Execution video available on Youtube:** https://www.youtube.com/watch?v=YYh6T4lCxxc
+
+**Email:-** kumarmuthuece5@gmail.com
+
+***
